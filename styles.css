@@ -1,0 +1,38 @@
+body 
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 2em;
+}
+
+h2 {
+    color: #ff9900;
+    letter-spacing: 5px;
+    font-size: 2em;
+}
+
+a {
+    color: #ff9900;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    list-style-type: none;
+    margin: 40px;
+    padding: 40px;
+    border: 3px dashed #ff9900;
+    font-weight: bold;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    padding: 0;
+}
